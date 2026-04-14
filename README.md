@@ -1,2 +1,2 @@
 # sharpener-projects
-Data analysis on stock market data and car insurance claim analysis
+Data analysis on stock market data(python) and car insurance claim analysis(sql).
